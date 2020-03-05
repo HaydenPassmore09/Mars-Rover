@@ -1,0 +1,5 @@
+C:\Users\haydo\Documents\Mars Rover\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\haydo\Documents\Mars Rover\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\haydo\Documents\Mars Rover\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\haydo\Documents\Mars Rover\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\haydo\Documents\Mars Rover\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
